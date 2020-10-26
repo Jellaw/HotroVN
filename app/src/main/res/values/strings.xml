@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">HotroVN</string>
+    <string name="title_activity_maps_help_news">Map</string>
+    <string name="APPNAME">HOTROVN</string>
+    <string name="slogan">Lan tỏa niềm tin</string>
+    <string name="interested_in">Bạn đang quan tâm?</string>
+    <string name="NeedRelief">CẦN CỨU TRỢ</string>
+    <string name="Helper">MẠNH THƯỜNG QUÂN</string>
+    <string name="editphonenum">Nhập số điện thoại</string>
+    <string name="vietnam">Việt Nam(+84)</string>
+    <string name="next">Tiếp theo</string>
+    <string name="Helpnews">BẢNG TIN CỨU TRỢ</string>
+    <string name="creat_news">Tạo bảng tin cứu trợ</string>
+    <string name="select_province">Chọn tỉnh</string>
+    <string name="select_city">Chọn thành phố</string>
+    <string name="select_distric">Quận/Huyện/Xã</string>
+    <string name="your_location">Vị trí của bạn</string>
+    <string name="create_person">Người kêu gọi</string>
+    <string name="role">Vai trò</string>
+    <string name="phoneNum">Điện thoại</string>
+    <string name="Description">Mô tả tình hình</string>
+    <string name="supplies">Cần hỗ trợ những gì?</string>
+    <string name="add_image">Thêm ảnh tình hình</string>
+    <string name="save">Lưu</string>
+
+
+
+</resources>
