@@ -314,8 +314,6 @@
                     android:textSize="20sp" />
 
                 <EditText
-                    android:lines="5"
-                    android:maxLines="5"
                     android:id="@+id/editText9"
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
@@ -324,6 +322,9 @@
                     android:layout_marginBottom="5dp"
                     android:background="@drawable/background_select_location"
                     android:ems="10"
+                    android:gravity="clip_vertical"
+                    android:lines="5"
+                    android:maxLines="5"
                     android:textSize="24sp" />
 
                 <TextView
@@ -336,8 +337,6 @@
                     android:textSize="20sp" />
 
                 <EditText
-                    android:lines="5"
-                    android:maxLines="5"
                     android:id="@+id/editText10"
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
@@ -346,6 +345,9 @@
                     android:layout_marginBottom="5dp"
                     android:background="@drawable/background_select_location"
                     android:ems="10"
+                    android:gravity="clip_vertical"
+                    android:lines="5"
+                    android:maxLines="5"
                     android:textSize="24sp" />
 
                 <Button
