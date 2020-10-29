@@ -22,6 +22,9 @@
     <string name="supplies">Cần hỗ trợ những gì?</string>
     <string name="add_image">Thêm ảnh tình hình</string>
     <string name="save">Lưu</string>
+    <string name="notification_sucess">Bản tin cứu trợ thành công!</string>
+    <string name="des_dialog">Các mạnh thường quân sẽ nhận được tin cứu trợ của bạn sớm!</string>
+    <string name="done">XONG</string>
 
 
 

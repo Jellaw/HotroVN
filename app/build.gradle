@@ -57,5 +57,9 @@ dependencies {
     implementation 'com.github.siyamed:android-shape-imageview:0.9.+@aar'
     //delete at end of edit text
     implementation 'com.github.Cielsk:clearable-edittext:0.0.5'
+    //convert to gson
+    implementation 'com.squareup.retrofit2:converter-gson:2.3.0'
+    //number picker scroll
+    implementation 'com.shawnlin:number-picker:2.4.11'
 
 }
